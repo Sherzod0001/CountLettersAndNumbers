@@ -79,12 +79,7 @@ foreach (char c in userInput)
 
     * After processing the input, the program displays the counts of letters and numbers.
 
-![result to img](/Image/image.png)
-
-4. Result to GIF:
-
-![result to gif](/GIF/result%20gif.gif)
-
+![result to img](/Images/image-1.jpg)
 
 
 > # I'm glad you are using the program.
