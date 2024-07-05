@@ -28,8 +28,10 @@ internal class Program
                 lettersCount++;
             }
         }
-
+        // test commit 
         Console.WriteLine($"the number of letters in the text : {lettersCount}");
-        Console.WriteLine($"the number of numbers in the text : {numbersCount}");
+        Console.WriteLine($"the number of numbers in the text : {numbersCount}\n");
+        Console.WriteLine($"letters entered : {letters}");
+        Console.WriteLine($"numbers entered : {numbers}");
     }
 }
